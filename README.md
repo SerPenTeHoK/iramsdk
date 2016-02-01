@@ -17,6 +17,13 @@ IRAM SDK ESP8266
 ets_uart_printf() выводит в TX/UATR0<br>
 ets_printf() выводит в TX2/UATR1<br>
 
+```
+IRAM SDK Init.
+ Free Heap: 81816
+ Free IRAM: 64036
+>
+```
+
 Для компиляции SDK используется [Unofficial Developer Kit](http://esp8266.ru/forum/forums/devkit/).<br>
 
 В Eclipse заданы 3 опции Manage Configurations:<br>
